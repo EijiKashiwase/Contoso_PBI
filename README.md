@@ -1,5 +1,5 @@
 # Contoso_PBI
-Repository created to maintein "Contoso" Power Bi Project.
+Repository created to maintain "Contoso" Power Bi Project.
 
 This project is a exploratory one. The main objective here is use Contoso (since is a huge "company" with a good amount and good quality of data) to build a PBI report using several and different resources.
 
